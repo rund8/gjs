@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "letter": "G",
-        "color": "blue",
+        "color": "red",
         "rank": "7",
         "ascii": "71"
       },
