@@ -4,21 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "hospital"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.79083228111267,
-          -6.343949852235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#b86b00",
         "stroke-width": 2,
         "stroke-opacity": 1,
